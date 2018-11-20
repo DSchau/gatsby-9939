@@ -1,5 +1,5 @@
 ---
-title: Third One
+title: Third one
 ---
 
-Third One
+Third one
